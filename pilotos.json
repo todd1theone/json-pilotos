@@ -257,14 +257,6 @@
 			},
 
 			{
-				"piloto": "DOUGLAS STUBSTAD",
-			    "age": "29",
-				"country": "EUA",
-				"car": "350z", 
-				"img": "STUBSTAD"
-			},
-
-			{
 				"piloto": "DUSTIN MILES",
 			    "age": "37",
 				"country": "EUA",
@@ -321,14 +313,6 @@
 			},
 
 			{
-				"piloto": "FREDRIC AASBO",
-			    "age": "38",
-				"country": "NO",
-				"car": "Supra MKV", 
-				"img": "AASBO"
-			},
-
-			{
 				"piloto": "GEOFF DONATI",
 			    "age": "29",
 				"country": "EUA",
@@ -354,13 +338,109 @@
 
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "JACK DAVIS",
+			    "age": "24",
+				"country": "EUA",
+				"car": "BMW E36", 
+				"img": "DAVIS"
 			},
 
+
+			{
+				"piloto": "JAMES DEANE",
+			    "age": "32",
+				"country": "IE",
+				"car": "RTR Spec 5", 
+				"img": "DEANE"
+			},
+
+
+			{
+				"piloto": "JAYCE HABICH",
+			    "age": "29",
+				"country": "EUA",
+				"car": "240SX S13", 
+				"img": "HABICH"
+			},
+
+
+			{
+				"piloto": "JAYDEN MARTORANA",
+			    "age": "15",
+				"country": "CA",
+				"car": "CORVETTE C6", 
+				"img": "MARTORANA"
+			},
+
+
+			{
+				"piloto": "JEFF JONES",
+			    "age": "39",
+				"country": "EUA",
+				"car": "370z", 
+				"img": "JONEs"
+			},
+
+
+			{
+				"piloto": "JHONNATTAN CASTRO ",
+			    "age": "40",
+				"country": "DO",
+				"car": "GR86", 
+				"img": "CASTRO"
+			},
+
+
+			{
+				"piloto": "JOAO BARION",
+			    "age": "36",
+				"country": "BR",
+				"car": "CORVETTE C6", 
+				"img": "BARION"
+			},
+
+
+			{
+				"piloto": "JONATHAN HURST",
+			    "age": "30",
+				"country": "EUA",
+				"car": "Cadillac XLR", 
+				"img": "HURST"
+			},
+
+
+			{
+				"piloto": "JOSH STUART",
+			    "age": "41",
+				"country": "EUA",
+				"car": "CORVETTE C6", 
+				"img": "STUART"
+			},
+
+
+			{
+				"piloto": "JOSHUA LOVE",
+			    "age": "34",
+				"country": "EUA",
+				"car": "BMW E46", 
+				"img": "LOVE"
+			},
+
+			{
+				"piloto": "JUSTIN CHESNUTT",
+			    "age": "36",
+				"country": "EUA",
+				"car": "BMW E82", 
+				"img": "CHESNUTT"
+			},
+
+			{
+				"piloto": "KASEY KOHL",
+			    "age": "35",
+				"country": "EUA",
+				"car": "S14.9", 
+				"img": "KOHL"
+			},
 
 			{
 				"piloto": "",
@@ -370,6 +450,13 @@
 				"img": ""
 			},
 
+			{
+				"piloto": "",
+			    "age": "",
+				"country": "",
+				"car": "", 
+				"img": ""
+			},
 
 			{
 				"piloto": "",
@@ -379,6 +466,13 @@
 				"img": ""
 			},
 
+			{
+				"piloto": "",
+			    "age": "",
+				"country": "",
+				"car": "", 
+				"img": ""
+			},
 
 			{
 				"piloto": "",
@@ -388,6 +482,13 @@
 				"img": ""
 			},
 
+			{
+				"piloto": "",
+			    "age": "",
+				"country": "",
+				"car": "", 
+				"img": ""
+			},
 
 			{
 				"piloto": "",
@@ -397,6 +498,13 @@
 				"img": ""
 			},
 
+			{
+				"piloto": "",
+			    "age": "",
+				"country": "",
+				"car": "", 
+				"img": ""
+			},
 
 			{
 				"piloto": "",
@@ -406,7 +514,6 @@
 				"img": ""
 			},
 
-
 			{
 				"piloto": "",
 			    "age": "",
@@ -415,7 +522,6 @@
 				"img": ""
 			},
 
-
 			{
 				"piloto": "",
 			    "age": "",
@@ -423,16 +529,6 @@
 				"car": "", 
 				"img": ""
 			},
-
-
-			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
-			},
-
 
 			{
 				"piloto": "",
@@ -441,6 +537,8 @@
 				"car": "", 
 				"img": ""
 			}
+
+			
 
 
 
