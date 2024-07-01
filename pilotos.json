@@ -443,105 +443,244 @@
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "KAZUYA TAGUCHI",
+			    "age": "31",
+				"country": "JP",
+				"car": "GT86", 
+				"img": "TAGUCHI"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "KELSEY ROWLINGS",
+			    "age": "34",
+				"country": "EUA",
+				"car": "S14.5", 
+				"img": "ROWLINGS"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "KEN GUSHI",
+			    "age": "37",
+				"country": "JP",
+				"car": "GR86", 
+				"img": "GUSHI"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "KYLE MOHAN",
+			    "age": "41",
+				"country": "EUA",
+				"car": "RX8", 
+				"img": "MOHAN"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "LEE YEARWOOD",
+			    "age": "34",
+				"country": "TTO",
+				"car": "BMW E92", 
+				"img": "YEARWOOD"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "LUIS LANZ",
+			    "age": "35",
+				"country": "VN",
+				"car": "CORVETTE C6", 
+				"img": "LANZ"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "MARGARITIS KATSANIDIS",
+			    "age": "41",
+				"country": "GR",
+				"car": "BMW E46", 
+				"img": "KATSANIDIS"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "MATT FIELD ",
+			    "age": "36",
+				"country": "EUA",
+				"car": "CORVETTE C6", 
+				"img": "FIELD"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "MATTHEW BYSTRAK",
+			    "age": "30",
+				"country": "EUA",
+				"car": "Mustang S550", 
+				"img": "BYSTRAK"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "MIKE POWER",
+			    "age": "27",
+				"country": "EUA",
+				"car": "S15"	, 
+				"img": "POWER"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
+				"piloto": "NATE CHEN",
+			    "age": "29",
+				"country": "EUA",
+				"car": "GT86", 
+				"img": "CHEN"
 			},
 
 			{
-				"piloto": "",
-			    "age": "",
-				"country": "",
-				"car": "", 
-				"img": ""
-			}
+				"piloto": "NICK NOBACK",
+			    "age": "29",
+				"country": "EUA",
+				"car": "BMW E46", 
+				"img": "NOBACK"
+			},
 
+			{
+				"piloto": "NIK JIMENEZ",
+			    "age": "33",
+				"country": "EUA",
+				"car": "350z", 
+				"img": "JIMENEZ"
+			},
+
+			{
+				"piloto": "RICHARD ADVANI",
+			    "age": "40",
+				"country": "EUA",
+				"car": "CORVETTE C6", 
+				"img": "ADVANI"
+			},
+
+			{
+				"piloto": "RICKY HOFMANN",
+			    "age": "32",
+				"country": "EUA",
+				"car": "S14.9", 
+				"img": "HOFMANN"
+			},
+
+			{
+				"piloto": "ROBERT THORNE",
+			    "age": "33",
+				"country": "EUA",
+				"car": "BMW E46 M3", 
+				"img": "THORNE"
+			},
+
+			{
+				"piloto": "ROME CHARPENTIER",
+			    "age": "37",
+				"country": "USA",
+				"car": "BMW E82", 
+				"img": "CHARPENTIER"
+			},
+
+			{
+				"piloto": "RUDY HANSEN",
+			    "age": "46",
+				"country": "USA",
+				"car": "s13", 
+				"img": "HANSEN"
+			},
+
+			{
+				"piloto": "RYAN LITTERAL",
+			    "age": "35",
+				"country": "USA",
+				"car": "S15", 
+				"img": "LITTERAL"
+			},
+
+			{
+				"piloto": "RYAN TUERCK",
+			    "age": "39",
+				"country": "USA",
+				"car": "GR COROLLA", 
+				"img": "TUERCK"
+			},
+
+			{
+				"piloto": "SAM MAGHMOUMI",
+			    "age": "AGHMOUMI",
+				"country": "LB",
+				"car": "BMW E36", 
+				"img": "MAGHMOUMI"
+			},
+
+			{
+				"piloto": "SHAWN ILLINGWORTH",
+			    "age": "30",
+				"country": "USA",
+				"car": "350a", 
+				"img": "ILLINGWORTH"
+			},
+
+			{
+				"piloto": "SIMEN OLSEN",
+			    "age": "27",
+				"country": "NR",
+				"car": "S14.9", 
+				"img": "OLSEN"
+			},
+
+			{
+				"piloto": "TAYLOR HULL",
+			    "age": "34",
+				"country": "USA",
+				"car": "CORVETTE C6", 
+				"img": "TAYLOR HULL"
+			},
+
+			{
+				"piloto": "TOMMY LEMAIRE",
+			    "age": "26",
+				"country": "CA",
+				"car": "S14.9", 
+				"img": "LEMAIRE"
+			},
+
+			{
+				"piloto": "TRENTON BEECHUM",
+			    "age": "30",
+				"country": "USA",
+				"car": "BMW E82", 
+				"img": " BEECHUM"
+			},
+
+			{
+				"piloto": "TREVOR ROOT",
+			    "age": "23",
+				"country": "USA",
+				"car": "BMW E36", 
+				"img": "ROOT"
+			},
+
+			{
+				"piloto": "TYLER FOLEY",
+			    "age": "32",
+				"country": "USA",
+				"car": "BMW E36", 
+				"img": "FOLEY"
+			},
+
+			{
+				"piloto": "VAUGHN GITTIN JR",
+			    "age": "43",
+				"country": "USA",
+				"car": "Mustang RTR Spec 5", 
+				"img": "GITTIN"
+			},
 			
-
-
-
+			{
+				"piloto": "ZANDARA KENNEDY ",
+			    "age": "38",	
+				"country": "CA",
+				"car": "S15", 
+				"img": "KENNEDY"
+			}
 
 
 		]
