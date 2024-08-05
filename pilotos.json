@@ -835,11 +835,11 @@
 
 			{
 				"piloto": "Murilo Sobral",
-			    "age": "16",
+			    "age": "18",
 				"country": "BR",
 				"car": "BRZ", 
 				"img": "SOBRAL"
-			},
+			}
 
 		]
 	}
