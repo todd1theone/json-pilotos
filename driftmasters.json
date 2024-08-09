@@ -1,0 +1,28 @@
+{
+    "campeonato": "driftmaster",
+    "cor": "#7DDFD2",
+    "pilotos": [
+        {
+            "piloto": "ADAM LZ",
+            "age": "28",
+            "country": "USA",
+            "car": "BMW E36",
+            "img": "LZ"
+        },
+        {
+            "piloto": "ADAM ZALEWSKI",
+            "age": "24",
+            "country": "POL",
+            "car": "gt86",
+            "img": "ZALEWSKI"
+        },
+
+        {
+            "piloto": "ALEX HOLOVNIA",
+            "age": "35",
+            "country": "UKR",
+            "car": "",
+            "img": ""
+        }
+    ]
+}

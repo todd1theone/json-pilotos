@@ -1,0 +1,139 @@
+{
+    "campeonato": "ultimatedrift",
+    "cor": "#7DDFD2",
+    "pilotos": [
+        {
+            "piloto": "Gustavinho",
+            "age": "25",
+            "country": "BR",
+            "car": "BMW E36",
+            "img": "gustavinho"
+        },
+        {
+            "piloto": "JOAO BARION",
+            "age": "36",
+            "country": "BR",
+            "car": "Mustang RTR Spec 5",
+            "img": "BARION"
+        },
+        {
+            "piloto": "Matheus Sartor",
+            "age": "27",
+            "country": "BR",
+            "car": "BMW M2 F22",
+            "img": "SARTOR"
+        },
+        {
+            "piloto": "Jorge Garcia",
+            "age": "35",
+            "country": "BR",
+            "car": "350z",
+            "img": "GARCIA"
+        },
+        {
+            "piloto": "Marcio Hashimoto",
+            "age": "N/A",
+            "country": "BR",
+            "car": "Nissan Skyline r34",
+            "img": "HASHIMOTO"
+        },
+        {
+            "piloto": "Peterson Lima",
+            "age": "39",
+            "country": "BR",
+            "car": "BMW E36 328I",
+            "img": "LIMA"
+        },
+        {
+            "piloto": "Dudu",
+            "age": "18",
+            "country": "BR",
+            "car": "S15 Spec-R",
+            "img": "DUDU"
+        },
+        {
+            "piloto": "Marcio Cabeça",
+            "age": "41",
+            "country": "BR",
+            "car": "BMW E36",
+            "img": "VIEIRA"
+        },
+        {
+            "piloto": "Pinguim",
+            "age": "44",
+            "country": "BR",
+            "car": "BMW E36",
+            "img": "PINGUIN"
+        },
+        {
+            "piloto": "Sergio Hanazono",
+            "age": "44",
+            "country": "BR",
+            "car": "S15 Spec-R",
+            "img": "HANAZONO"
+        },
+        {
+            "piloto": "Marcelo Machado",
+            "age": "45",
+            "country": "BR",
+            "car": "S15",
+            "img": "MACHADO"
+        },
+        {
+            "piloto": "Giovanni Coronado",
+            "age": "27",
+            "country": "BR",
+            "car": "370z V8",
+            "img": "CORONADO"
+        },
+        {
+            "piloto": "Gabriel Pacheco",
+            "age": "22",
+            "country": "BR",
+            "car": "BMW E36 325I",
+            "img": "PACHECO"
+        },
+        {
+            "piloto": "Rogerio Predador",
+            "age": "46",
+            "country": "BR",
+            "car": "BMW E36",
+            "img": "Predador"
+        },
+        {
+            "piloto": "JUNINGO",
+            "age": "19",
+            "country": "BR",
+            "car": "S15",
+            "img": "JUNINHO"
+        },
+        {
+            "piloto": "Renato Garcia",
+            "age": "29",
+            "country": "BR",
+            "car": "350z",
+            "img": "RENATO"
+        },
+        {
+            "piloto": "Valentina Piaz",
+            "age": "16",
+            "country": "BR",
+            "car": "370z",
+            "img": "PIAZ"
+        },
+        {
+            "piloto": "Bruno BAR",
+            "age": "33",
+            "country": "BR",
+            "car": "350z",
+            "img": "BAR"
+        },
+        {
+            "piloto": "Murilo Sobral",
+            "age": "18",
+            "country": "BR",
+            "car": "BRZ",
+            "img": "SOBRAL"
+        }
+    ]
+}
